@@ -1,4 +1,4 @@
-# Self-stabilizing quadcopter #
+# Self-Stabilizing Quadcopter using Arduino #
 
 ## About ##
 
