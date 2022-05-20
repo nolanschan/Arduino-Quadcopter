@@ -10,7 +10,7 @@ More details about our project can be found on my Github.io site <a href="https:
 
 This code is a fork/rewrite of the <a href="http://www.brokking.net/ymfc-al_main.html">Project YMFC-AL flight controller</a> by Joop Brokking.
 
-## Changes ##
+## Modifications ##
 
 -  I rewrote the code to ensure that I fully understood it.
 -  I elected not to use the EEPROM for data storage.
